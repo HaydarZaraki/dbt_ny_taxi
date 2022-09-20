@@ -2,8 +2,8 @@ version: 2
 
 sources:
   - name: staging
-    database:dtc-de-358219
-    schema:ny_taxi
+    database: dtc-de-358219
+    schema: ny_taxi
 
 
     tables:
